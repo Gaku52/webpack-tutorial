@@ -1,3 +1,3 @@
 import { hello } from "./sub.js";
 
-hello("Hello World");
+hello("Hello World ver.002");
